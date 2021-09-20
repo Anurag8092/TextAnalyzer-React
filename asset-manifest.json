@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextAnalyzer-React/static/css/main.a4a20492.chunk.css",
+    "main.js": "/TextAnalyzer-React/static/js/main.867c96fb.chunk.js",
+    "main.js.map": "/TextAnalyzer-React/static/js/main.867c96fb.chunk.js.map",
+    "runtime-main.js": "/TextAnalyzer-React/static/js/runtime-main.9d0ea5df.js",
+    "runtime-main.js.map": "/TextAnalyzer-React/static/js/runtime-main.9d0ea5df.js.map",
+    "static/js/2.e4da8852.chunk.js": "/TextAnalyzer-React/static/js/2.e4da8852.chunk.js",
+    "static/js/2.e4da8852.chunk.js.map": "/TextAnalyzer-React/static/js/2.e4da8852.chunk.js.map",
+    "static/js/3.05f99302.chunk.js": "/TextAnalyzer-React/static/js/3.05f99302.chunk.js",
+    "static/js/3.05f99302.chunk.js.map": "/TextAnalyzer-React/static/js/3.05f99302.chunk.js.map",
+    "index.html": "/TextAnalyzer-React/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/TextAnalyzer-React/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.e4da8852.chunk.js.LICENSE.txt": "/TextAnalyzer-React/static/js/2.e4da8852.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0ea5df.js",
+    "static/js/2.e4da8852.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.867c96fb.chunk.js"
+  ]
+}
